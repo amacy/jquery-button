@@ -107,7 +107,6 @@ jQuery ->
         nextY = y
       nextY
       
-
     # Store the locations in variables
     buttonNextX = calcX(buttonX, buttonRate)
     buttonNextY = calcY(buttonY, buttonRate)
